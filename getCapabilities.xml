@@ -249,6 +249,11 @@
 				<Title>iphiclides_podalirius__linnaeus__1758_</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:satyrium_w_album__knoch__1782_</Name>
+				<Title>satyrium_w_album__knoch__1782_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
