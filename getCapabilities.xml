@@ -209,6 +209,46 @@
 				<Layers>GH:hillshade_wms___osm_wms_de</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:parnassius_sacerdos_stichel__1906</Name>
+				<Title>parnassius_sacerdos_stichel__1906</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:parnassius_phoebus_sacerdos_stichel__1906</Name>
+				<Title>parnassius_phoebus_sacerdos_stichel__1906</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:parnassius_phoebus__fabricius__1793_</Name>
+				<Title>parnassius_phoebus__fabricius__1793_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:parnassius_mnemosyne__linnaeus__1758_</Name>
+				<Title>parnassius_mnemosyne__linnaeus__1758_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:parnassius_apollo_brittingeri_rebel__amp__rogenhofer__1892</Name>
+				<Title>parnassius_apollo_brittingeri_rebel__amp__rogenhofer__1892</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:parnassius_apollo__linnaeus__1758_</Name>
+				<Title>parnassius_apollo__linnaeus__1758_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:papilio_machaon_linnaeus__1758</Name>
+				<Title>papilio_machaon_linnaeus__1758</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:iphiclides_podalirius__linnaeus__1758_</Name>
+				<Title>iphiclides_podalirius__linnaeus__1758_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
